@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I believe in a free, autonomous and truly (small) world 🌍
+
 Currently working on rust 🦀 and project management
+
 Dreamer 🌠
 
 
