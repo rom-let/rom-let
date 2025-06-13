@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I believe in a free, autonomous and truly (small) world 🌍
+Currently working on rust 🦀 and project management
+Dreamer 🌠
+
+
 <!--
 **romwerito/romwerito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
