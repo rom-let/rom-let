@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I believe in a free, autonomous and truly (small) world 🌍
+I believe in a free, autonomous and truly connected (small) world 🌍
 
 Currently working on rust 🦀 and project management
 
