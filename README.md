@@ -1,11 +1,14 @@
 ## Hi there 👋
 
+Riding without Copilot 😎
+
+<!--
 I believe in a free, autonomous and truly connected (small) world 🌍
 
-Currently working on rust 🦀 and project management
+Currently working on rust 🦀 and project management 
 
 Dreamer 🌠
-
+-->
 
 <!--
 **romwerito/romwerito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
